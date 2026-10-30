@@ -21,6 +21,5 @@ class MainActivity : AppCompatActivity() {
             insets
         }
 
-        binding.tvWelcome.text = getString(R.string.tvWelcome)
-    }
+         }
 }
