@@ -3,7 +3,7 @@ plugins {
 }
 
 android {
-    namespace = "com.example.gorevim"
+    namespace = "com.selim.gorevim"
     compileSdk {
         version = release(37)
     }
@@ -12,7 +12,7 @@ android {
         viewBinding = true
     }
     defaultConfig {
-        applicationId = "com.example.gorevim"
+        applicationId = "com.selim.gorevim"
         minSdk = 30
         targetSdk = 37
         versionCode = 1

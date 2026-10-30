@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">gorevim</string>
+    <string name="tvWelcome">Görevim\'e hoş geldin</string>
 </resources>

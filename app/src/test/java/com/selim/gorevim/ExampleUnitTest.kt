@@ -1,4 +1,4 @@
-package com.example.gorevim
+package com.selim.gorevim
 
 import org.junit.Test
 
